@@ -1,6 +1,4 @@
-DROP DATABASE IF EXISTS db_rh
-
-;
+DROP DATABASE IF EXISTS db_rh;
 CREATE DATABASE db_rh;
 USE db_rh;
 
